@@ -9,7 +9,7 @@
 	<project name="MontaVista-OpenSourceTechnology/meta-arm64-ilp32.git" remote="github.com" path="layers/meta-arm64-ilp32" revision="sumo"/>
 	<project name="MontaVista-OpenSourceTechnology/meta-qa.git" remote="github.com" path="layers/meta-qa" revision="sumo"/>
 	<project name="MontaVista-OpenSourceTechnology/meta-montavista-cgx.git" remote="github.com" path="layers/meta-montavista-cgx" revision="sumo"/>
-	<project name="MontaVista-OpenSourceTechnology/meta-selinux.git" remote="github.com" path="layers/meta-selinux" revision="master"/>
+	<project name="MontaVista-OpenSourceTechnology/meta-selinux.git" remote="github.com" path="layers/meta-selinux" revision="sumo"/>
 	<project name="MontaVista-OpenSourceTechnology/meta-security.git" remote="github.com" path="layers/meta-security" revision="sumo"/>
 	<project name="MontaVista-OpenSourceTechnology/meta-cgl.git" remote="github.com" path="layers/meta-cgl" revision="master"/>
 	<project name="MontaVista-OpenSourceTechnology/meta-cloud-services.git" remote="github.com" path="layers/meta-cloud-services" revision="master"/>
